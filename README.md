@@ -1,2 +1,2 @@
 # SI650-Airbnb-Search-Engine
-Information Retrieval Project @ University of Michigan
+Information Retrieval Course Final Project @ University of Michigan
